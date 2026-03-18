@@ -1,0 +1,407 @@
+Package: me.dylicious.mbp
+Version: 14.0
+Section: Multimedia
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/MovieBoxPro14.deb
+Size: 24542452
+MD5sum: b2fdd188aa1777da518cb58569194171
+SHA1: ecaecd84705500dec0a704d198fb754133f7a2c3
+SHA256: a08bb25b3a9bb90eecabc63b68232f3a33cf8d3f0d1afc96c71c8a4875f739fb
+SHA512: e52b192bcc6474dc0574d6639ac4ee904dcd5060442983744fd03dabb03f41084b73770b6b6ad888d71fa313870c230654b1e492de24a482036531f356b6ac8a
+Description: MovieBoxPro for iOS 12/13/14/15/16/17/18
+Name: MovieBoxPro
+Icon: https://dylbin.github.io/icons/me.dylicious.mbp.png
+Depiction: https://dylbin.github.io/depictions/cydia/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/depictions/sileo/MovieBoxPro.json
+Author: MovieBoxPro Team
+
+Package: me.dylicious.mbp.rootless
+Version: 14.0-rootless
+Section: Multimedia
+Maintainer: Dylicious
+Architecture: iphoneos-arm64
+Filename: ./debs/MovieBoxProRootless.deb
+Size: 24546352
+MD5sum: c841a59d4da9838fe7dfa197c6de2b1a
+SHA1: 6911b98e4e4a39166713b5e359221bf5f819bbe1
+SHA256: 6731044ea47f80f4948d05f4c5afe68fe6bb5eb6a9770486dcd0fb66463cb196
+SHA512: 8a807855cf7e6ddec922318a07822b10fd128d66708c038f5092f93d1d8de8489c7ccdc02af2d5b415c305e6614fffd52d363ee35ef15c59a39f428f99824bba
+Description: MovieBoxPro for iOS 15/16/17/18 rootless jailbreaks.
+Name: MovieBoxPro (Rootless)
+Icon: https://dylbin.github.io/icons/me.dylicious.mbp.png
+Depiction: https://dylbin.github.io/depictions/cydia/MovieBoxPro/MovieBoxPro-Rootless.html
+SileoDepiction: https://dylbin.github.io/depictions/sileo/MovieBoxPro.json
+Author: MovieBoxPro Team
+
+Package: me.dylicious.junipero
+Version: 1.1
+Section: Themes
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/JuniperoDeluxe.deb
+Size: 7998966
+MD5sum: 56801de761959498670cc1d9bac18f55
+SHA1: e65aa76bc095f8c1c7c2607ce814339d8e377eec
+SHA256: c5b733a600046a4e6a35627b475921893aeefd9e3c0d96b259a0a353e1db1812
+Description: A stunning new look for iOS
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Name: Junipero Deluxe
+Icon: https://dylbin.github.io/icons/me.dylicious.junipero.png
+Author: xerusdesign
+
+Package: me.dylicious.ayeris
+Version: 1.5
+Section: Themes
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/ayeris.deb
+Size: 8766054
+MD5sum: fdc79970f37aa5c92ae0eaafa264a780
+SHA1: 735b183e955d14d74962da5cb3f4162da5c46c7e
+SHA256: 834f1e3234a2959c43a6c16b9c7e87741471d3001be6315158304c46a851027b
+Description: A legendary theme for iOS
+Name: ayeris
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Icon: https://dylbin.github.io/icons/me.dylicious.ayeris15.png
+Author: Dylicious
+
+Package: me.dylicious.spotilife
+Version: 1.8
+Section: Tweaks
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/Spotilife.deb
+Size: 127026
+MD5sum: b07e4b5779d8493e67c2737b5fc0a200
+SHA1: 35c87e28f56ef559bf99bf1500e6910221fb411a
+SHA256: dda8793a490b3d16a10605f0e1504a45ec12c3a9ec71c6e7ad48b2e215230d85
+Description: Enable Spotify Premium Features on iOS 10 - 14ish
+Name: Spotilife
+Depends: mobilesubstrate
+Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
+Author: julioverne & Dylicious
+
+Package: me.dylicious.spotilife.rootless
+Version: 1.8-rootless
+Section: Tweaks
+Maintainer: Dylicious
+Architecture: iphoneos-arm64
+Filename: ./debs/SpotilifeRootless.deb
+Size: 111048
+MD5sum: a64aec3802969052d27d66ce03002fdc
+SHA1: 5396f4fba8d07816fe6bcfd5a3bba2fc3be1810d
+SHA256: 4623e5774e5d56980bd72496f4b246d876504835e8510a42334b93fd2d7c6fcf
+Description: Enable Spotify Premium Features on iOS 10 - 14ish
+Name: Spotilife (Rootless)
+Depends: mobilesubstrate
+Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
+Author: julioverne & Dylicious
+
+Package: com.uckermark.not-a-bypass
+Version: 1.1.4
+Section: Tweaks
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/NotABypass.deb
+Size: 19377680
+MD5sum: c5b2eccc09486ce99dc430d896e8e621
+SHA1: 4d89309b333b74be44e5993cda2d133acade27ab
+SHA256: 2e36dc355f2cff4d61b18478af655ff8f214ec0daa62550662b2e718ad87064e
+SHA512: 23ecb991bbbcdcd4ad23d01c4b112243ec43b9e757ce481bf34ac31da7fb0a8da3801675f798422b4c9c6a7184d097208d863bd24bf56141c1a72b9d8ed62530
+Description: Global jailbreak detection bypass
+Name: Not A Bypass
+Depends: firmware (>= 13.0), com.ex.substitute (>= 2.0)
+Pre-Depends: coreutils-bin, dpkg (>= 1.17.11)
+Icon: https://dylbin.github.io/icons/com.uckermark.not-a-bypass.png
+Author: Uckermark
+
+Package: me.dylicious.saily.rootless
+Version: 2.1-rootless
+Section: Packaging
+Maintainer: Dylicious
+Architecture: iphoneos-arm64
+Filename: ./debs/SailyRootless.deb
+Size: 3531504
+MD5sum: e251b2de89ff1101ca11ea1b0963299a
+SHA1: 794e9dae16ebf0271f9b400bbd2d26b537c1d7ce
+SHA256: f9893d966655a2b71e4f9406879053a9c9b69e91f70768e21d3996df24fc4ecd
+SHA512: b2669ea44bc301d290801965dfaa63544f23fe5510c0a0d980621b5910b4c5a969af90175ef82b29f157533df919645d2b7a54b7f0db129ac622c9b00c364aa0
+Description: Modern. Fast. Beautiful. Rootless.
+Name: Saily
+Icon: https://dylbin.github.io/icons/Saily.png
+Author: Saily Team
+
+Package: ipwnderlite64
+Version: 1.0.63
+Section: System
+Maintainer: Dylicious
+Depends: firmware (>= 11.0), curl, com.ra9stuff.accessoryalertblocker
+Conflicts: ipwnderlite
+Architecture: iphoneos-arm
+Filename: ./debs/iPwnderLite64.deb
+Size: 22390
+MD5sum: d8adab1018a0fb283d2a3d7cbd6f1276
+SHA1: 3e8d381bb8ab4276fd9ab61feba159b58cea3c1c
+SHA256: 3c7354bbf06977b38371bcd525230c11d8c919caf397a94b775bdd6d0c4d0554
+Description: a tool to exploit the checkm8 BootROM exploit on A4-A11 chipsets.
+Name: iPwnder Lite (64-bit, iOS 11+)
+Author: SakuRdev, dora2ios & Dylicious
+
+Package: ipwnderlite32
+Version: 1.0.63
+Section: System
+Maintainer: Dylicious
+Depends: firmware (>= 9.0), firmware (<< 11.0), curl, com.ra9stuff.accessoryalertblocker
+Conflicts: ipwnderlite
+Architecture: iphoneos-arm
+Filename: ./debs/iPwnderLite32.deb
+Size: 22882
+MD5sum: 56b35989d96bd89cc913575866cbe7b8
+SHA1: 69a2d2fa9f78b13af7c2794c2560e6a98f5f9253
+SHA256: 5a092523f82b8a6fe7bfb307eef8da359d78676618c0eb8bbe8ca09195cf15a0
+Description: a tool to exploit the checkm8 BootROM exploit on A4-A11 chipsets.
+Name: iPwnder Lite (32-bit)
+Author: SakuRdev, dora2ios & Dylicious
+
+Package: ipwnderlite
+Version: 1.0.63
+Section: System
+Maintainer: Dylicious
+Depends: firmware (>= 9.0), curl, com.ra9stuff.accessoryalertblocker
+Conflicts: ipwnderlite
+Architecture: iphoneos-arm64
+Filename: ./debs/iPwnderLite64-Rootless.deb
+Size: 22400
+MD5sum: 24305239612509dd084443e0c02de74d
+SHA1: 7c499bfcb85007470619d4e4b8746a3cadbb8ddd
+SHA256: db621c55f04701da808a3f3af5429cebb19fe58246ac21641c062b8c70eec497
+Description: a tool to exploit the checkm8 BootROM exploit on A4-A11 chipsets.
+Name: iPwnder Lite (64-bit, Rootless)
+Author: SakuRdev, dora2ios & Dylicious
+
+Package: com.ra9stuff.accessoryalertblocker
+Version: 0.0.1-2
+Architecture: iphoneos-arm64
+Maintainer: rA9stuff
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Accessoryalertblocker-Rootless.deb
+Size: 4970
+MD5sum: c585aca0c818a74d52b2e045b29d9fd2
+SHA1: ab44734d1b78494d2bbf3d61c5e79f6959aa4d79
+SHA256: a38c9303115330e1abc471bc21136622c532255c4a1a35dfd82143255a656760
+Section: Tweaks
+Description: blocks downloading accessory firmware alert.
+Author: rA9stuff
+Name: accessoryalertblocker (rootless)
+
+Package: com.ra9stuff.accessoryalertblocker
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: rA9stuff
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Accessoryalertblocker.deb
+Size: 4908
+MD5sum: fd284f54ce49e93397e462947f5f1ad2
+SHA1: 3518e993db934723dfaaf5b7fd83f3d49b10c4c1
+SHA256: a5663a19248dce79aa74b7f23b75b3dc893260012cfa9ff908675721da0f9844
+Section: Tweaks
+Description: blocks downloading accessory firmware alert.
+Author: rA9stuff
+Name: accessoryalertblocker
+
+Package: com.eevee.spotify
+Version: 6.2.2
+Architecture: iphoneos-arm64
+Maintainer: Dylicious
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Installed-Size: 1596
+Filename: ./debs/EeveeSpotifyRootless.deb
+Size: 451926
+MD5sum: 447422605a1d08f454dc7243f1ff8e68
+SHA1: 245e3bf6465691928f4536fcdb3d9036d05366a9
+SHA256: 782f632fea833ff3d8a4d025304d11ad946a7e69701908cc03ee3836782f6532
+Section: Tweaks
+Description: A tweak to get Spotify Premium for free, just like Spotilife. Works on iOS 14 - 18
+Author: Eevee
+Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
+Name: EeveeSpotify
+
+Package: org.swift.protobuf.swiftprotobuf
+Version: 1.29.0
+Architecture: iphoneos-arm64
+Maintainer: Dylicious
+Installed-Size: 10056
+Filename: ./debs/SwiftProtobufRootless.deb
+Size: 1446130
+MD5sum: 78e5915754b1068b212890ffe907dfd0
+SHA1: 6d0a4904f961407b2fbc7153bd9fae3dda27b8db
+SHA256: 82370ccb97937f4d7b4408f0c918d9136bad5a2c40f11d1aeb3337dda9f06b6f
+Section: System
+Tag: role::developer
+Description: Plugin and runtime library for using protobuf with Swift
+Author: eevee
+Name: SwiftProtobuf
+
+Package: io.pangu.fuxiqin9
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Pangu <axe@pangu.io>
+Depends: coreutils-bin, firmware (>= 9.0), firmware (<= 9.1)
+Filename: debs/Pangu9.deb
+Size: 208682
+MD5sum: bd3016250078ec73f159e44595dc06d1
+Section: System
+Priority: optional
+Description: untethered jailbreak based on pangu exploits
+Author: Pangu <axe@pangu.io>
+Depiction: https://cydia.saurik.com/info/io.pangu.fuxiqin9/
+Name: Pangu 9.0-9.1 Untether
+
+Package: io.pangu.xuanyuansword8
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: Pangu <axe@pangu.io>
+Depends: coreutils-bin, firmware (>= 8.0), firmware (<< 8.2)
+Filename: debs/Pangu8.deb
+Size: 457432
+MD5sum: a08eec22eabc8e4eb3f1055e795967e8
+Section: System
+Priority: optional
+Description: untethered jailbreak based on pangu exploits
+Author: Pangu <axe@pangu.io>
+Depiction: https://cydia.saurik.com/info/io.pangu.xuanyuansword8/
+Name: Pangu 8.0-8.1.x Untether
+
+Package: com.evad3rs.evasi0n
+Version: 0.4-1
+Architecture: iphoneos-arm
+Maintainer: evad3rs <info@evad3rs.com>
+Depends: coreutils-bin, firmware (>= 6.0), firmware (<= 6.1.2)
+Filename: debs/evasi0n.deb
+Size: 98678
+MD5sum: cb193d8cf0eea61ac62d68fff3a55902
+Section: System
+Priority: optional
+Description: untethered jailbreak based on planetbeing and nikias exploits
+Author: evad3rs <info@evad3rs.com>
+Depiction: https://cydia.saurik.com/info/com.evad3rs.evasi0n/
+Name: evasi0n 6.0-6.1.2 Untether
+
+Package: com.evad3rs.evasi0n7
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: evad3rs <info@evad3rs.com>
+Depends: coreutils-bin, firmware (>= 7.0), firmware (<= 7.1)
+Filename: debs/evasi0n7.deb
+Size: 156658
+MD5sum: 1c924f4fb095c49511a5f089091bf80d
+Section: System
+Priority: optional
+Description: untethered jailbreak based on evad3rs exploits
+Author: evad3rs <info@evad3rs.com>
+Depiction: https://cydia.saurik.com/info/com.evad3rs.evasi0n7/
+Name: evasi0n 7.x Untether
+
+Package: com.chronic-dev.greenpois0n.rocky-racoon
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: Chronic Dev Team <info@chronic-dev.com>
+Depends: coreutils-bin, firmware (= 5.1.1), lzma, cy+model.iphone (= 2.1) | cy+model.iphone (= 3.1) | cy+model.iphone (= 3.3) | cy+model.iphone (= 4.1) | cy+model.ipod (= 3.1) | cy+model.ipod (= 4.1) | cy+model.ipad (= 1.1) | cy+model.ipad (= 2.1) | cy+model.ipad (= 2.2) | cy+model.ipad (= 2.3) | cy+model.ipad (= 2.4) | cy+model.ipad (= 3.1) | cy+model.ipad (= 3.2) | cy+model.ipad (= 3.3)
+Filename: debs/RockyRacoon.deb
+Size: 236562
+MD5sum: 3ab8fa97b5a7bbdb8e16a04d8619a7a6
+Section: System
+Priority: optional
+Description: untethered jailbreak based on pod2g and planetbeing exploits
+Author: Chronic-Dev Team <info@chronic-dev.com>
+Depiction: https://cydia.saurik.com/info/com.chronic-dev.greenpois0n.rocky-racoon/
+Name: Rocky Racoon 5.1.1 Untether
+
+Package: taiguntether83x
+Version: 2.3
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.1.3), firmware (<= 8.4), uikittools (>= 1.1.10)
+Breaks: taiguicache (<< 2.0), cydia (<< 1.1.19)
+Filename: debs/TaigUntether.deb
+Size: 96784
+MD5sum: e372f4c35ecfd6408ab4d5643e675a44
+Section: System
+Priority: important
+Description: taig untether jailbreak for ios8.1.3-ios8.4
+Author: TaiG
+Depiction: https://cydia.saurik.com/info/taiguntether83x/
+Name: TaiG 8.1.3-8.x Untether
+
+Package: com.ih8sn0w-squiffy-winocm.p0sixspwn
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: iH8sn0w, SquiffyPwn, winocm
+Installed-Size: 88
+Depends: firmware(>= 6.1.3), firmware (<< 7.0)
+Filename: debs/p0sixspwn.deb
+Size: 24748
+MD5sum: ab8d468fa8501539a8f327131eedd710
+Section: System
+Description: A drama free 6.1.3/6.1.4/6.1.5/6.1.6 untether.
+Author: iH8sn0w, SquiffyPwn, winocm
+Depiction: https://cydia.saurik.com/info/com.ih8sn0w-squiffy-winocm.p0sixspwn/
+Name: p0sixspwn
+
+Package: com.chronic-dev.greenpois0n.corona
+Version: 1.0-8
+Architecture: iphoneos-arm
+Maintainer: Chronic Dev Team <info@chronic-dev.com>
+Depends: coreutils-bin, firmware (= 5.0) | firmware (= 5.0.1), cy+model.iphone (= 2.1) | cy+model.iphone (= 3.1) | cy+model.iphone (= 3.3) | cy+model.iphone (= 4.1) | cy+model.ipod (= 3.1) | cy+model.ipod (= 4.1) | cy+model.ipad (= 1.1) | cy+model.ipad (= 2.1) | cy+model.ipad (= 2.2) | cy+model.ipad (= 2.3)
+Filename: debs/Corona.deb
+Size: 102934
+MD5sum: 97e871eb40d78659930a029a4244744e
+Section: System
+Priority: optional
+Description: untethered jailbreak based on pod2g's exploit
+Author: Chronic-Dev Team <info@chronic-dev.com>
+Depiction: https://cydia.saurik.com/info/com.chronic-dev.greenpois0n.corona/
+Name: Corona 5.0.1 Untether
+
+Package: ai.akemi.appsyncunified
+Version: 116.0
+Architecture: iphoneos-arm64
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: debs/AppSyncUnifiedRootless.deb
+Size: 49472
+Installed-Size: 668
+MD5sum: d6a31911e878b83e47c6525fa29ecef1
+SHA1: d00d2667c0d5421dddfc70a2734f1d63b972a535
+SHA256: 2bdaac72a6d1b006309b7dd28f51b1e3d351d3d8758fc9f08ca670f1d71eb382
+Section: Tweaks
+Priority: optional
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://dylbin.github.io/depictions/cydia/AppSyncUnified/AppSyncUnified.html
+SileoDepiction: https://dylbin.github.io/depictions/sileo/AppSyncUnified.json
+Name: AppSync Unified (Rootless)
+
+Package: ai.akemi.appsyncunified
+Version: 116.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: debs/AppSyncUnified.deb
+Size: 51658
+Installed-Size: 636
+MD5sum: 536009a11dad57e48a5563224eaffaff
+SHA1: e0fa412cb3c26718887edd834804c88909297079
+SHA256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
+Section: Tweaks
+Provides: appsync, net.angelxwind.appsyncunified
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://dylbin.github.io/depictions/cydia/AppSyncUnified/AppSyncUnified.html
+SileoDepiction: https://dylbin.github.io/depictions/sileo/AppSyncUnified.json
+Name: AppSync Unified
